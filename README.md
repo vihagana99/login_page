@@ -21,10 +21,3 @@ This is a simple **Flutter login application** that uses an **API for authentica
 - **SQLite** (Local database)
 - **HTTP Package** (For API calls)
 
----
-
-## 📂 Installation
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/yourusername/flutter-login-app.git
-   cd flutter-login-app
