@@ -1,16 +1,30 @@
-# login_page
+# 📱 Flutter Login App with SQLite
 
-A new Flutter project.
+This is a simple **Flutter login application** that uses an **API for authentication** and stores user data in a **SQLite database**.
 
-## Getting Started
+## 🚀 Features
+- 🔑 **Login with API authentication**
+- 💾 **Save user data in SQLite database**
+- 📂 **Retrieve & display stored user data**
+- 🎨 **Modern UI design with Flutter**
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📥 Download APK
+🔗 **[Download APK](https://drive.google.com/file/d/1k5hsy9CdBNKI3K1hmnDtJ4pdXjv2CLfT/view?usp=drive_link)**  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Technologies Used
+- **Flutter** (Dart)
+- **SQLite** (Local database)
+- **HTTP Package** (For API calls)
+
+---
+
+## 📂 Installation
+1. **Clone the repository**:
+   ```sh
+   git clone https://github.com/yourusername/flutter-login-app.git
+   cd flutter-login-app
